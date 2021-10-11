@@ -1,0 +1,8 @@
+.search {
+    background-color: rgb(27, 27, 27);
+    padding: 15px;
+}
+#search {
+    width: 640px;
+    margin-left: 10%;
+}

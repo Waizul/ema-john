@@ -1,0 +1,19 @@
+.product {
+    display: flex;
+    margin: 5px;
+     border-right: 1px solid gray;
+     border-bottom: 1px solid gray;
+}
+.product-info{
+ margin-left: 20px;
+    margin-bottom: 10px;
+   
+    padding-bottom: 10px;
+}
+   
+
+button {
+    padding: 0 50px;
+    background-color: rgba(241, 112, 6, 0.63);
+    border-radius: 5px;
+}

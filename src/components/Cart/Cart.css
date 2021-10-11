@@ -1,0 +1,10 @@
+.cart {
+	line-height: 0.5rem;
+}
+
+/* .cart-text {
+	text-align: left;
+} */
+.cart-price {
+	text-align: right;
+}
